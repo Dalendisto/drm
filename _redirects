@@ -1,0 +1,9 @@
+/services/electrics /.netlify/functions/server-render 200
+/services/electrics/content.dat /.netlify/functions/server-render 200
+/services/gates /.netlify/functions/server-render 200
+/services/gates/content.dat /.netlify/functions/server-render 200
+/services/security /.netlify/functions/server-render 200
+/services/security/content.dat /.netlify/functions/server-render 200
+/about /.netlify/functions/server-render 200
+/about/content.dat /.netlify/functions/server-render 200
+

@@ -1,0 +1,1 @@
+[{"kind":"serverless","pathPattern":"/services/electrics"},{"kind":"serverless","pathPattern":"/services/gates"},{"kind":"serverless","pathPattern":"/services/security"},{"kind":"prerender","pathPattern":"/blog/:slug"},{"kind":"serverless","pathPattern":"/about"},{"kind":"static","pathPattern":"/blog"},{"kind":"static","pathPattern":"/"}]
